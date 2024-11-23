@@ -1,0 +1,9 @@
+python can be used for 
+  data analysis
+  web scraping
+  big data
+  finance
+  computer vision
+  NLP
+  ML
+  DL
