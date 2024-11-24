@@ -8,3 +8,8 @@
 
 # Verify the key is in the dictionary
 # The Bodyguard' in release_year_dict
+
+# dict_name.update({key: value})
+# dict_name.clear()
+# the clear method emties the dictionary and thus removes all key-value pairs within it. 
+
