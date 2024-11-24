@@ -18,7 +18,9 @@
 
 # mathematical set operations
 
-# set1 & set2 gives union of two sets OR use following
+# set1 & set2 gives intersection element between two sets 
+
+# the following gives the union of two sets
 # set1.union(set2)
 
 # set1.issubset(set2) 
