@@ -24,3 +24,15 @@
 # set1.union(set2)
 
 # set1.issubset(set2) 
+
+# set1.discard("apple") to remove an element
+
+# is_superset = colors.issuperset(fruits)
+
+# pop()
+# intersection()
+# union()
+# difference()
+# symmetric difference()
+# fruits.update(["grapes","apples"])
+
