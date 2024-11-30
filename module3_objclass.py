@@ -16,3 +16,12 @@ class car:
   def get_speed(self):
     return self.speed
     
+# calling methods on objects
+
+# using dot notation
+# res1 = obj.method(par1,par2)
+
+# assigning obj methods to vars
+# method_ref = obj1.method1
+# res2 = method_ref(par1,par2)
+
