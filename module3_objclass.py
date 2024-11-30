@@ -25,4 +25,7 @@ class Car:
 # method_ref = obj1.method1
 # res2 = method_ref(par1,par2)
 
+# LAB
+# #Type your code here
+# dir(Car) gives the default methods for a class
 
