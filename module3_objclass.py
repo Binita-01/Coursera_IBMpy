@@ -1,5 +1,5 @@
 
-class car:
+class Car:
   max_speed = 120
   # this attribute is shared by all instances
   # __init__ method aslo known as the constructor
@@ -11,7 +11,7 @@ class car:
     if self.speed + acceleration <= max_speed:
       self.speed += acceleration
     else:
-      self.speed= max_speed
+      self.speed= Car.max_speed
       
   def get_speed(self):
     return self.speed
@@ -24,4 +24,5 @@ class car:
 # assigning obj methods to vars
 # method_ref = obj1.method1
 # res2 = method_ref(par1,par2)
+
 
